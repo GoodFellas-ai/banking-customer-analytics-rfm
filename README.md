@@ -22,14 +22,16 @@ This project focuses on analyzing large-scale banking transaction data to unders
 
 The goal is to transform raw transactional data into business-driven insights that can support customer retention, marketing strategies, and revenue optimization.
 
-🎯 Objectives
+---
+
+# 🎯 Objectives
 - Analyze banking transaction behavior at scale
 - Engineer meaningful customer-level features
 - Apply RFM segmentation methodology
 - Identify high-value (VIP) and at-risk customers
 - Extract actionable business insights from data
 
-📊 Dataset Description
+# 📊 Dataset Description
 
 The dataset contains multiple banking-related files:
 
@@ -41,24 +43,28 @@ Additionally, a transaction mapping file is used:
 
 - Transaction codes → Labels, types, and channels
 
-⚙️ Methodology
+# ⚙️ Methodology
+
 1️⃣ Data Cleaning
-Removed duplicates and inconsistent records
-Standardized transaction categories
-Converted datetime fields
-Handled missing values
+- Removed duplicates and inconsistent records
+- Standardized transaction categories
+- Converted datetime fields
+- Handled missing values
+
 2️⃣ Feature Engineering
 Created time-based features (hour, day, month)
 Aggregated customer-level transaction behavior
 Computed total monetary value per customer
-3️⃣ RFM Analysis
 
+3️⃣ RFM Analysis
 Customers were segmented based on:
 
 Recency → How recently a customer transacted
 Frequency → How often they transact
 Monetary → Total value generated
-📈 Key Business Insights
+
+
+# 📈 Key Business Insights
 A small group of customers generates the majority of revenue (Pareto principle)
 VIP customers show significantly higher transaction volume and monetary value
 At-risk customers show declining transaction frequency
