@@ -1,4 +1,4 @@
-🚀 Banking Customer Analytics & Segmentation Project
+## 🚀 Banking Customer Analytics & Segmentation Project
 # 🏦 Banking Customer Analytics Project
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
@@ -23,23 +23,23 @@ This project focuses on analyzing large-scale banking transaction data to unders
 The goal is to transform raw transactional data into business-driven insights that can support customer retention, marketing strategies, and revenue optimization.
 
 🎯 Objectives
-Analyze banking transaction behavior at scale
-Engineer meaningful customer-level features
-Apply RFM segmentation methodology
-Identify high-value (VIP) and at-risk customers
-Extract actionable business insights from data
+- Analyze banking transaction behavior at scale
+- Engineer meaningful customer-level features
+- Apply RFM segmentation methodology
+- Identify high-value (VIP) and at-risk customers
+- Extract actionable business insights from data
 
 📊 Dataset Description
 
 The dataset contains multiple banking-related files:
 
-customer_profiles.csv → Customer demographic information
-bank_accounts.csv → Account-level information
-account_transactions.csv → Transaction history (2M+ rows)
+- customer_profiles.csv → Customer demographic information
+- bank_accounts.csv → Account-level information
+- account_transactions.csv → Transaction history (2M+ rows)
 
 Additionally, a transaction mapping file is used:
 
-Transaction codes → Labels, types, and channels
+- Transaction codes → Labels, types, and channels
 
 ⚙️ Methodology
 1️⃣ Data Cleaning
