@@ -16,7 +16,7 @@ is to build a data-driven customer segmentation framework for business decision-
 
 
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project focuses on analyzing large-scale banking transaction data to understand customer behavior and segment customers using RFM (Recency, Frequency, Monetary) analysis.
 
@@ -130,12 +130,12 @@ Customer lifetime value (CLV) modeling
 Real-time dashboard integration (Power BI / Streamlit)
 Fraud detection modeling
 
-📫 Contact
+## 📫 Contact
 
 GitHub: https://github.com/Goodfellas-ai
 Focus: Data Analytics | Banking Analytics | Machine Learning
 
-⚡ Final Note
+## ⚡ Final Note
 
 - This project is designed as a real-world banking analytics case study, focusing on actionable insights rather than just technical analysis.
 
