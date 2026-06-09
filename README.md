@@ -1,5 +1,6 @@
 ## 🚀 Banking Customer Analytics & Segmentation Project
 # 🏦 Banking Customer Analytics Project
+---
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-green.svg)
@@ -7,6 +8,7 @@
 ![Tech](https://img.shields.io/badge/Stack-Pandas%20%7C%20Sklearn%20%7C%20Matplotlib-blueviolet.svg)
 
 
+--- 
 
 This project analyzes 2.3M+ banking transactions to understand customer behavior, transaction patterns, and value distribution. The goal 
 is to build a data-driven customer segmentation framework for business decision-making.
@@ -83,20 +85,22 @@ Additionally, a transaction mapping file is used:
 ---
 
 # 🛠️ Tools & Technologies
-Python
-Pandas & NumPy
-Matplotlib & Seaborn
-Jupyter Notebook
+
+- Python
+- Pandas & NumPy
+- Matplotlib & Seaborn
+- Jupyter Notebook
 
 📊 Visual Analysis Includes
-Transaction volume by hour
-Channel usage distribution
-Revenue contribution by channel
-Customer segmentation distribution
-Monetary value distribution
-RFM segment analysis
+- Transaction volume by hour
+- Channel usage distribution
+- Revenue contribution by channel
+- Customer segmentation distribution
+- Monetary value distribution
+- RFM segment analysis
 
-📁 Project Structure
+## 📁 Project Structure
+
 Banking-Customer-Analytics-RFM/
 - │
 - ├── data/
@@ -124,16 +128,18 @@ This project demonstrates how raw financial transaction data can be transformed 
 
 It bridges the gap between data analysis and business decision-making.
 
-🚀 Future Improvements
-Machine Learning-based churn prediction
-Customer lifetime value (CLV) modeling
-Real-time dashboard integration (Power BI / Streamlit)
-Fraud detection modeling
+
+## 🚀 Future Improvements
+
+- Machine Learning-based churn prediction
+- Customer lifetime value (CLV) modeling
+- Real-time dashboard integration (Power BI / Streamlit)
+- Fraud detection modeling
 
 ## 📫 Contact
 
-GitHub: https://github.com/Goodfellas-ai
-Focus: Data Analytics | Banking Analytics | Machine Learning
+- GitHub: https://github.com/Goodfellas-ai
+- Focus: Data Analytics | Banking Analytics | Machine Learning
 
 ## ⚡ Final Note
 
