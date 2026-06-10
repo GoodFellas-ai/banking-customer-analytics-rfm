@@ -1,5 +1,4 @@
-## 🚀 Banking Customer Analytics & Segmentation Project
-# 🏦 Banking Customer Analytics Project
+# 🚀 Banking Customer Analytics & Segmentation Project
 ---
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
