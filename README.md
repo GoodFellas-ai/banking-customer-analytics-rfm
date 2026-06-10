@@ -46,13 +46,14 @@ Additionally, a transaction mapping file is used:
 
 # ⚙️ Methodology
 
-# 1️⃣ Data Cleaning
+## 1️⃣ Data Cleaning
+
 - Removed duplicates and inconsistent records
 - Standardized transaction categories
 - Converted datetime fields
 - Handled missing values
 
-# 2️⃣ Feature Engineering
+## 2️⃣ Feature Engineering
 
 - Created time-based features (hour, day, month)
 - Aggregated customer-level transaction behavior
