@@ -40,7 +40,7 @@ The dataset contains multiple banking-related files:
 - bank_accounts.csv → Account-level information
 - account_transactions.csv → Transaction history (2M+ rows)
 
-Additionally, a transaction mapping file is used:
+- Additionally, a transaction mapping file is used:
 
 - Transaction codes → Labels, types, and channels
 
