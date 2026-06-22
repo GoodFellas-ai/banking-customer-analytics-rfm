@@ -1,7 +1,7 @@
 # 🚀 Banking Customer Analytics & Segmentation Project
 ---
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.13+-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-green.svg)
 ![Domain](https://img.shields.io/badge/Domain-Banking%20Analytics-red.svg)
 ![Tech](https://img.shields.io/badge/Stack-Pandas%20%7C%20Sklearn%20%7C%20Matplotlib-blueviolet.svg)
